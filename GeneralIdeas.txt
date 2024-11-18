@@ -4,6 +4,7 @@ Egyptian Tomb
 Systems:
 - Health Metering
 - Basic Combat/Fights
+- Attribute System for Enemies/Player that affects combat
 
 Enemies/Obstacles:
 - Mummies
