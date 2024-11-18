@@ -1,12 +1,17 @@
-Theming - 
+Theming: 
 Egyptian Tomb
 
-Systems
+Systems:
+- Health Metering
+- Basic Combat/Fights
 
-Enemies/Obstacles
+Enemies/Obstacles:
+- Mummies
+- Tomb Goblins
 
-Locations/Map
+Locations/Map:
 
-Items
+Items:
 
-Events
+Events:
+- Sphinx Quiz
